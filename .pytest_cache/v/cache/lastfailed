@@ -1,0 +1,4 @@
+{
+  "tests/test_s3_media_storage.py": true,
+  "tests/test_s3_media_storage.py::TestS2Storage::test_it_allow_store_files": true
+}
